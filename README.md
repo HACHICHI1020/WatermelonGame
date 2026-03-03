@@ -1,4 +1,4 @@
-# 🍉 [게임 이름:Watermelon Puzzle] 
+# 🍉 [게임 이름: Watermelon Puzzle] 
 > **유니티 2D 물리 엔진 및 오브젝트 병합 로직 이해를 위한 실습 프로젝트**
 
 ## 🎯 프로젝트 소개
